@@ -19,7 +19,7 @@ the foundation was expanded and the home was substantially rebuilt in
 bathrooms, 7 total rooms, and 1 fireplace. The lot is approximately
 0.38 acres and is zoned R-2.
 
-The assessor field card lists a 1,292 sq ft basement and a 140 sq ft crawl space. The basement is unfinished and has walk-out access.
+The assessor field card lists a 1,292 sq ft basement and a 140 sq ft crawl space. The basement is unfinished and has an exterior garage door providing direct access to the basement storage area. The opening allows an approximately 18-foot boat on its trailer to be pulled inside for storage.
 
 WATERFRONT:
 The property has 75 feet of direct waterfront on Lake Zoar, with its
