@@ -107,6 +107,16 @@ The property is in the Sandy Hook section of Newtown, Connecticut.
 Current MLS school assignments are Sandy Hook Elementary School, Reed Intermediate School, Newtown Middle School, and Newtown High School. School assignments are determined by the Newtown Board of Education and buyers should confirm current assignments directly with the district.
 Sandy Hook Center, with shops and restaurants, is just minutes away.
 
+NEARBY SHOPPING & CONVENIENCES:
+Caraluzzi's Newtown Market is under 5 miles from the property.
+Big Y in Newtown is under 5 miles from the property.
+Stop & Shop in Newtown is approximately 8 miles from the property.
+Starbucks is approximately 3.5 miles from the property.
+Dunkin' is under 5 miles from the property.
+
+These distances are approximate. If asked for exact mileage, driving time, current hours, or directions, recommend checking a current map.
+Sandy Hook Center, with restaurants and local businesses, is just minutes from the property.
+
 TAXES & LISTING HISTORY:
 Property tax is approximately $15,561 for the July 2026-June 2027 tax
 year. Assessed value is $531,830 and the mil rate is 29.26.
