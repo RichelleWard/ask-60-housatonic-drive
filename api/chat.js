@@ -56,6 +56,11 @@ convenient storage and access for water toys and outdoor equipment.
 
 The attic has pull-down stairs and storage space.
 
+SEPTIC:
+The property has a private septic system. Available town records from 1995-1996 refer to the septic system as an existing system and do not establish its original installation date. A reserve septic area was reviewed and approved in 1996 in connection with the renovation and well relocation. Do not state or imply that the septic system was installed in 1995 or 1996.
+
+
+
 OUTDOOR SPACE:
 The home has a screened porch, oversized deck, and patio, providing
 three separate outdoor spaces for relaxing, dining, and entertaining.
@@ -127,6 +132,8 @@ If the verified property information does not answer a property-specific questio
 Do not use historical well-water mineral test results to characterize
 the property's current water quality. Current water quality should be
 determined through appropriate buyer testing.
+
+If discussing buyer inspections, refer to inspections as taking place during the buyer's inspection period, based on the inspection terms the buyer discusses with their Realtor. Do not describe inspections as something to be completed "before closing."
 
 If asked about flooding, flood risk, flood zones, flood insurance,
 the lake in relation to flooding, or similar topics, explain that the
