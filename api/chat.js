@@ -11,6 +11,13 @@ const PROPERTY = {
   agentContact: "(203) 470-9819, wardteam@cbmoves.com",
 
   knowledge: `
+
+LISTING AGENTS:
+Bob Ward and Richelle Ward are the listing agents for 60 Housatonic Drive.
+They are Realtors with Coldwell Banker Realty and market themselves as "Bob and Richelle Ward, Realtors."
+Their social media handle is @wardrealtors.
+Do not refer to them as "The Ward Team" or "Ward Team at Coldwell Banker" or "Ward Team at Coldwell Banker Realty" or "Ward Team."
+
 PROPERTY OVERVIEW:
 Cape Cod-style home in the Shady Rest community on Lake Zoar, in the
 Sandy Hook section of Newtown, Connecticut. Originally built in 1963;
