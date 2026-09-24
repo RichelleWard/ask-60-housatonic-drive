@@ -7,8 +7,8 @@ const PROPERTY = {
   address: "60 Housatonic Drive, Sandy Hook, Newtown, CT 06482",
   price: "$925,000 (reduced from original list price of $975,000)",
   bedsBaths: "4 bedrooms / 3 full bathrooms / 2,522 sq ft",
-  agentName: "Richelle Ward",
-  agentContact: "(203) 470-9819, richelle.ward@cbmoves.com",
+  agentName: "Bob and Richelle Ward",
+  agentContact: "(203) 470-9819, wardteam@cbmoves.com",
 
   knowledge: `
 PROPERTY OVERVIEW:
