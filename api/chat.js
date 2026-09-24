@@ -19,6 +19,8 @@ the foundation was expanded and the home was substantially rebuilt in
 bathrooms, 7 total rooms, and 1 fireplace. The lot is approximately
 0.38 acres and is zoned R-2.
 
+The assessor field card lists a 1,292 sq ft basement and a 140 sq ft crawl space. The basement is unfinished and has walk-out access.
+
 WATERFRONT:
 The property has 75 feet of direct waterfront on Lake Zoar, with its
 own private dock and private boat launch. The backyard is level to the
