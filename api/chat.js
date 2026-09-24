@@ -92,9 +92,8 @@ Association participation is optional; it is not a mandatory fee.
 
 NEIGHBORHOOD & SCHOOLS:
 The property is in the Sandy Hook section of Newtown, Connecticut.
-School assignment is determined by the Newtown Board of Education.
-The high school is Newtown High School. Sandy Hook Center, with shops
-and restaurants, is just minutes away.
+Current MLS school assignments are Sandy Hook Elementary School, Reed Intermediate School, Newtown Middle School, and Newtown High School. School assignments are determined by the Newtown Board of Education and buyers should confirm current assignments directly with the district.
+Sandy Hook Center, with shops and restaurants, is just minutes away.
 
 TAXES & LISTING HISTORY:
 Property tax is approximately $15,561 for the July 2026-June 2027 tax
